@@ -1,0 +1,15 @@
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\bin\Debug\net6.0\tpmodul4_1302213012.exe
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\bin\Debug\net6.0\tpmodul4_1302213012.deps.json
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\bin\Debug\net6.0\tpmodul4_1302213012.runtimeconfig.json
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\bin\Debug\net6.0\tpmodul4_1302213012.dll
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\bin\Debug\net6.0\tpmodul4_1302213012.pdb
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\obj\Debug\net6.0\tpmodul4_1302213012.csproj.AssemblyReference.cache
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\obj\Debug\net6.0\tpmodul4_1302213012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\obj\Debug\net6.0\tpmodul4_1302213012.AssemblyInfoInputs.cache
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\obj\Debug\net6.0\tpmodul4_1302213012.AssemblyInfo.cs
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\obj\Debug\net6.0\tpmodul4_1302213012.csproj.CoreCompileInputs.cache
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\obj\Debug\net6.0\tpmodul4_1302213012.dll
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\obj\Debug\net6.0\refint\tpmodul4_1302213012.dll
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\obj\Debug\net6.0\tpmodul4_1302213012.pdb
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\obj\Debug\net6.0\tpmodul4_1302213012.genruntimeconfig.cache
+C:\Users\bimoz\source\repos\tpmodul4_1302213012\tpmodul4_1302213012\obj\Debug\net6.0\ref\tpmodul4_1302213012.dll
