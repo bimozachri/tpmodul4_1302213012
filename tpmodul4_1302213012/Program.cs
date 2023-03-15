@@ -98,7 +98,7 @@ internal class Program
         MechanicalDoor_1302213012 door = new MechanicalDoor_1302213012();
         door.triggerActive(TriggerDoor.KUNCI_PINTU);
         door.triggerActive(TriggerDoor.BUKA_PINTU);
-        door.triggerActive(TriggerDoor.BUKA_PINTU);
         door.triggerActive(TriggerDoor.KUNCI_PINTU);
+        door.triggerActive(TriggerDoor.BUKA_PINTU);
     }
 }
